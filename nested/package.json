@@ -12,6 +12,7 @@
   "packageManager": "pnpm@10.18.3",
   "dependencies": {
     "async": "^3.2.6",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "react": "^16.0.0"
   }
 }
